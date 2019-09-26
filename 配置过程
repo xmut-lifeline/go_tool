@@ -2,7 +2,7 @@
      go get -u -v github.com/nsf/gocodego                                           #自动补全
      go get -u -v github.com/uudashr/gopkgs/cmd/gopkgs                              #自动补全未导入的包
      go get -u -v github.com/ramya-rao-a/go-outline                                 ###当前文件中按符号搜索
-     get -u -v github.com/acroca/go-symbols                                         #当前workspace中按符号搜索
+     go get -u -v github.com/acroca/go-symbols                                         #当前workspace中按符号搜索
      go get -u -v golang.org/x/tools/cmd/guru                                       #查找所有引用组件
      go get -u -v golang.org/x/tools/cmd/gorename                                   ###重命名符号
      go get -u -v github.com/fatih/gomodifytags                                     #修改结构上的标签
